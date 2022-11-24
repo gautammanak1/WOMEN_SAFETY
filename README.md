@@ -9,8 +9,7 @@ The app is having mainly three sections:
   - **Check Location:** Here, you will get the current location of the user by adding a marker on the inbuilt google map.
   - **Emergency:** This plays an important role in the app. It sends an instant text message and mail to the list of guardians. The message contains the current location of user with google map link created.
 
-## Video Demo (Time: 2 minute)
-![Untitled-7-1280X720-378Mbps-2020](https://user-images.githubusercontent.com/33577947/83517010-c2c73780-a4f5-11ea-9847-2404963e42c3.gif)
+
 
 ## Features
 * 100% made with Kotlin
