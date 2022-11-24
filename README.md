@@ -48,7 +48,7 @@ The app is having mainly three sections:
 
     The MIT License (MIT)
     
-    Copyright (c) 2020 Shubham Patil
+   
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
