@@ -45,9 +45,9 @@ The app is having mainly three sections:
 
 ## License
 -------
-
+     
     The MIT License (MIT)
-    
+    MAKE BY GAUTAM AND  SHUBHAM YGS (https://github.com/ShubhamYGS)
    
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
